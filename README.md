@@ -1,11 +1,15 @@
 ## Spotify Clone
 
-React
-Material UI (Icons)
-User Authentication (firebase)
-Spotify API
-React Context API (redux)
-Modern Tech
-React hooks functional (hooks,state)
-entire React Tech Stack
-Massive Value
+npm kurulum
+- npm install
+- npm start
+
+## İçerik
+
+- React, hooks(useEffect,useContext (API (redux))
+- Material UI (Icons)
+- User Authentication (spotify-api)
+- Spotify API
+- Başlangıç seviyesi
+
+Detaylı bilgi için bana yazın...
